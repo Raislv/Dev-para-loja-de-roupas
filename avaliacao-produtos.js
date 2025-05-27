@@ -1,1 +1,3 @@
-// Esse e o arquivo da avaliacao de produtos //
+const { jsx } = require("react/jsx-runtime");
+
+jsx
